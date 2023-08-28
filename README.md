@@ -1,4 +1,4 @@
-# Stock Market Prediction Analysis using Machine Learning
+# Stock Market Prediction Analysis using Machine Learning-LSTM
 
 ## Table of Contents
 
