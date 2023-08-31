@@ -76,4 +76,4 @@ Happy coding!
 
 ## Author 
 
-Sarvesh Sairam Naik
+- **Sarvesh Sairam Naik**
