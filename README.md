@@ -80,6 +80,10 @@ Feel free to customize and expand upon the provided code to match your unique da
 
 Happy coding!
 
-## Author 
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-- **Sarvesh Sairam Naik**
+---
+
+**Author:** Sarvesh Sairam Naik  
+**GitHub Repository:** [GitHub Link](https://github.com/sarveshsn)
